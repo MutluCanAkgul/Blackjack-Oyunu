@@ -1,0 +1,17 @@
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\bin\Debug\net6.0-windows\Blackjack Oyunu.exe
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\bin\Debug\net6.0-windows\Blackjack Oyunu.deps.json
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\bin\Debug\net6.0-windows\Blackjack Oyunu.runtimeconfig.json
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\bin\Debug\net6.0-windows\Blackjack Oyunu.dll
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\bin\Debug\net6.0-windows\Blackjack Oyunu.pdb
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack_Oyunu.Form1.resources
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.csproj.GenerateResource.cache
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.AssemblyInfo.cs
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.dll
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\refint\Blackjack Oyunu.dll
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.pdb
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack Oyunu.genruntimeconfig.cache
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\ref\Blackjack Oyunu.dll
+C:\Users\Mutlucan\source\repos\Blackjack Oyunu\obj\Debug\net6.0-windows\Blackjack_Oyunu.Properties.Resources.resources
